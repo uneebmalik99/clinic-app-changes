@@ -1,0 +1,1230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+MERGED from [:davidgovea_react-native-wheel-datepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@davidgovea/react-native-wheel-datepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-async-storage_async-storage] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_toolbar-android] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_viewpager] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-masked-view_masked-view] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-device-info] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-document-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-localization] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-push-notification] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-restart] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/cec7a90db12f25697a3f9221c771680f/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:17:1-143:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/535e8164cb19babe0eeae618ee966687/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e0cfeb1038511d5c82dfce20a1d9e122/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7914fea356d2e4b6df271833edf2d193/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3147351c176f8d88535dbf378ca4d166/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a733567b73e1f8e72b0de2cc9c73c7fc/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/634fe6f2b4db55addef55230e8fe0ef3/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/66ad6ca45fefcf8e598a0c9ed9497bea/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0a0cea88a4e85fb9814cb5d33f266bb7/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/614e5d505b85073ec4218697b4afe8d6/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/9923b33a71dbe65cf6890a8694896284/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6698099f5e89519f624bce3c3a240014/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/bad2aa51ba62f8269368f670f6d20ff9/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/141d1133141d9dda5e01c1ecdee970df/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b1934e2fb08b5961f2084e2e1640991f/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/da77beccd374ea27a5c5d7c4fff83660/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/452d34263d276de9841bf31e2509c8cd/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0dcf1b3af74ed876134debcff4290214/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/39b1643f75fe69633e356fdd88655acc/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7e7f5aac3517ac75ddd834175910f945/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1dda6ba58adc58573cd3c654684513f0/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/84179c4ddfeb7b0e4379bcb19a904112/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/719ec47a96bc2f411fa01e59bc8f2b6c/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [io.sentry:sentry-android:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0d503a24a14ce3eeeb1e51d8dc0dfdfe/sentry-android-2.3.1/AndroidManifest.xml:2:1-13:12
+MERGED from [io.sentry:sentry-android-ndk:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/dda9183600a7ad661edadb1df708e1f6/sentry-android-ndk-2.3.1/AndroidManifest.xml:2:1-11:12
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f7653487aad516745c7f2ca8ae8e4648/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/27d978c333a03fa18a98f3c88e60cbdb/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/980befc89996e274fefeedef9efa74a9/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/aba80152d787f351a6b463199e4cfd6e/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/d8221af67edac72dcb7b0b6802c88133/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/60acc8d6b59c85b0fec958f362fc71a2/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/340ee42c2b1b235002645dadf904785f/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5634f320f37d9dfe9c5776d199cd190d/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c603657106e31c4cf410818e8a80b696/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/691b16344e947b9904668e9deb44e4b9/WheelPicker-1.0.3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webrtc:google-webrtc:1.0.30039] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35af8b4cb6f5692422c14a73be8b43fe/jetified-google-webrtc-1.0.30039/AndroidManifest.xml:11:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/45f65f7a1320c39dc3c3f1aeabf3c62c/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6f24ba5d7f17fa3b9f23c1ceba01a4a9/relinker-1.3.1/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:4:5-25
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:1-126:12
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:12:5-80
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-80
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-80
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:10:5-80
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:13:5-71
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-71
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:13:22-68
+uses-feature#android.hardware.microphone
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:5-89
+	android:required
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:62-86
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:19-61
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:15:5-67
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:11:5-67
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:11:5-67
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:9:5-67
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:17:5-81
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:18:5-65
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-65
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:19:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:20:22-63
+uses-feature#android.hardware.camera
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:21:5-60
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-60
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:21:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:22:5-69
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-70
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:22:19-67
+application
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:23:5-124:19
+MERGED from [:react-native-community_datetimepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-18:19
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-18:19
+MERGED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/cec7a90db12f25697a3f9221c771680f/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/cec7a90db12f25697a3f9221c771680f/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:30:5-141:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/535e8164cb19babe0eeae618ee966687/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/535e8164cb19babe0eeae618ee966687/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e0cfeb1038511d5c82dfce20a1d9e122/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e0cfeb1038511d5c82dfce20a1d9e122/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/452d34263d276de9841bf31e2509c8cd/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/452d34263d276de9841bf31e2509c8cd/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:13:5-20:19
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:13:5-20:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:14:5-20
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:14:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5634f320f37d9dfe9c5776d199cd190d/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5634f320f37d9dfe9c5776d199cd190d/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:28:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:29:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:24:9-50
+receiver#com.clinic.notification.RNFirebaseNotificationReceiver
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:57:9-91
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:57:19-88
+receiver#com.clinic.notification.RNFirebaseNotificationsRebootReceiver
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:60:13-35
+	android:exported
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:59:13-89
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:62:13-67:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:17-79
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:17-82
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:17-82
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:25-79
+category#android.intent.category.DEFAULT
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:66:27-73
+service#com.clinic.notification.RNFirebaseMessagingService
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:71:9-77:19
+	android:exported
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:72:13-78
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:74:13-76:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:17-78
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:25-75
+service#com.clinic.notification.RNFirebaseBackgroundMessagingService
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:79:9-96
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:79:18-93
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:81:3-82:44
+	android:value
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:82:21-42
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:81:15-91
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:84:9-85:54
+	android:resource
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:85:21-52
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:84:21-92
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:87:9-108
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:87:19-105
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:88:9-110
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:88:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:89:9-95:20
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:89:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:90:13-94:29
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:97:9-103:19
+	android:exported
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:99:13-37
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:98:13-107
+activity#com.clinic.SplashActivity
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:106:9-114:20
+	android:screenOrientation
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:107:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:109:13-113:29
+action#android.intent.action.MAIN
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:110:17-69
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:110:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:112:17-77
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:112:27-74
+activity#com.clinic.MainActivity
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:115:9-122:55
+	android:screenOrientation
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:118:13-45
+	android:launchMode
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:119:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:122:13-52
+	android:exported
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:121:13-36
+	android:configChanges
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:117:13-90
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:116:13-51
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:123:9-86
+	android:name
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:123:19-83
+uses-sdk
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+MERGED from [:davidgovea_react-native-wheel-datepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@davidgovea/react-native-wheel-datepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:davidgovea_react-native-wheel-datepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@davidgovea/react-native-wheel-datepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-async-storage_async-storage] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_viewpager] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-masked-view_masked-view] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-masked-view_masked-view] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-document-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-document-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-restart/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/cec7a90db12f25697a3f9221c771680f/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/cec7a90db12f25697a3f9221c771680f/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c70680f4f79b683a7b255f115a533023/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/535e8164cb19babe0eeae618ee966687/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/535e8164cb19babe0eeae618ee966687/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e0cfeb1038511d5c82dfce20a1d9e122/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e0cfeb1038511d5c82dfce20a1d9e122/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7914fea356d2e4b6df271833edf2d193/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7914fea356d2e4b6df271833edf2d193/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a929dd22ce23766be43cdebd1a6984ca/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4be147c5582ca1b1aa3e926e68511351/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3147351c176f8d88535dbf378ca4d166/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3147351c176f8d88535dbf378ca4d166/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a733567b73e1f8e72b0de2cc9c73c7fc/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a733567b73e1f8e72b0de2cc9c73c7fc/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/634fe6f2b4db55addef55230e8fe0ef3/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/634fe6f2b4db55addef55230e8fe0ef3/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/66ad6ca45fefcf8e598a0c9ed9497bea/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/66ad6ca45fefcf8e598a0c9ed9497bea/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/42b3c31646db6f87e3eaa4566c7b47a0/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0a0cea88a4e85fb9814cb5d33f266bb7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0a0cea88a4e85fb9814cb5d33f266bb7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/614e5d505b85073ec4218697b4afe8d6/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/614e5d505b85073ec4218697b4afe8d6/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/9923b33a71dbe65cf6890a8694896284/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/9923b33a71dbe65cf6890a8694896284/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6698099f5e89519f624bce3c3a240014/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6698099f5e89519f624bce3c3a240014/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/bad2aa51ba62f8269368f670f6d20ff9/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/bad2aa51ba62f8269368f670f6d20ff9/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/959f79b5bfbdb0b34b2b71a0e334357e/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/141d1133141d9dda5e01c1ecdee970df/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/141d1133141d9dda5e01c1ecdee970df/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fe641ea1ce00905408e9506428d806b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/048d0f032c42519c8827f4550897b0f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b1934e2fb08b5961f2084e2e1640991f/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b1934e2fb08b5961f2084e2e1640991f/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/da77beccd374ea27a5c5d7c4fff83660/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/da77beccd374ea27a5c5d7c4fff83660/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/25003e1e8e5b1fcf418d5e4169b73fc8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a476d7b811e6739e78169c49db145768/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3df6aa5a14a24ce6c751de89ede90647/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/740968e6833fc95f1245cf6c80cd32d2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/452d34263d276de9841bf31e2509c8cd/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/452d34263d276de9841bf31e2509c8cd/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b628f855745fad7ae2167b7e34cc6d5b/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/34851f49535a6a151dcc5e6df8ec15b8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/012984c7e6198b4ecf2425dbe99a2b6e/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/676486b2e07a649c148d711e87f7c850/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5406160923e31cc1f479a0504cd4874b/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0dcf1b3af74ed876134debcff4290214/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0dcf1b3af74ed876134debcff4290214/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/39b1643f75fe69633e356fdd88655acc/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/39b1643f75fe69633e356fdd88655acc/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/57d3812ee6dd1da4a8a4fabbd19f58b7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7e7f5aac3517ac75ddd834175910f945/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/7e7f5aac3517ac75ddd834175910f945/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1dda6ba58adc58573cd3c654684513f0/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1dda6ba58adc58573cd3c654684513f0/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/84179c4ddfeb7b0e4379bcb19a904112/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/84179c4ddfeb7b0e4379bcb19a904112/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fb384e72991c6d3ca6b3064836693d8d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/719ec47a96bc2f411fa01e59bc8f2b6c/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/719ec47a96bc2f411fa01e59bc8f2b6c/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c75621218ae55bfe480448989d7bc511/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e82d9003a33f84cfcb0231a907dd86dc/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c76aae2f0b8ba6977433e19751e29117/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5589e3a40ad35f0253a32aac07c80405/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/611d6b63b4914f71c7c0bb901d971684/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/acacd9ed9817a5f75be73323ad814af1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b8f9241249c483d0e07718bc6e527bf3/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.sentry:sentry-android:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0d503a24a14ce3eeeb1e51d8dc0dfdfe/sentry-android-2.3.1/AndroidManifest.xml:8:5-11:57
+MERGED from [io.sentry:sentry-android:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0d503a24a14ce3eeeb1e51d8dc0dfdfe/sentry-android-2.3.1/AndroidManifest.xml:8:5-11:57
+MERGED from [io.sentry:sentry-android-ndk:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/dda9183600a7ad661edadb1df708e1f6/sentry-android-ndk-2.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.sentry:sentry-android-ndk:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/dda9183600a7ad661edadb1df708e1f6/sentry-android-ndk-2.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f7653487aad516745c7f2ca8ae8e4648/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f7653487aad516745c7f2ca8ae8e4648/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/27d978c333a03fa18a98f3c88e60cbdb/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/27d978c333a03fa18a98f3c88e60cbdb/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/007b99b2f59ddd1f8d46b2e4b30ff39b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/980befc89996e274fefeedef9efa74a9/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/980befc89996e274fefeedef9efa74a9/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/aba80152d787f351a6b463199e4cfd6e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/aba80152d787f351a6b463199e4cfd6e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/d8221af67edac72dcb7b0b6802c88133/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/d8221af67edac72dcb7b0b6802c88133/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/60acc8d6b59c85b0fec958f362fc71a2/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/60acc8d6b59c85b0fec958f362fc71a2/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b57114fc990de35c1702197ca0ae79ee/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/340ee42c2b1b235002645dadf904785f/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/340ee42c2b1b235002645dadf904785f/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5634f320f37d9dfe9c5776d199cd190d/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/5634f320f37d9dfe9c5776d199cd190d/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ceb32e9f62933b74224d49968417a212/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a991dc71bd0cf468445ec287707d3801/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f53247ed5fb265423c6901ce8e2fe025/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c603657106e31c4cf410818e8a80b696/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c603657106e31c4cf410818e8a80b696/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/691b16344e947b9904668e9deb44e4b9/WheelPicker-1.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/691b16344e947b9904668e9deb44e4b9/WheelPicker-1.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [org.webrtc:google-webrtc:1.0.30039] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35af8b4cb6f5692422c14a73be8b43fe/jetified-google-webrtc-1.0.30039/AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.30039] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35af8b4cb6f5692422c14a73be8b43fe/jetified-google-webrtc-1.0.30039/AndroidManifest.xml:13:3-72
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/45f65f7a1320c39dc3c3f1aeabf3c62c/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/45f65f7a1320c39dc3c3f1aeabf3c62c/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6f24ba5d7f17fa3b9f23c1ceba01a4a9/relinker-1.3.1/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6f24ba5d7f17fa3b9f23c1ceba01a4a9/relinker-1.3.1/AndroidManifest.xml:5:5-43
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [io.sentry:sentry-android:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/0d503a24a14ce3eeeb1e51d8dc0dfdfe/sentry-android-2.3.1/AndroidManifest.xml:11:9-54
+	android:targetSdkVersion
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-79
+MERGED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-79
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:11:5-79
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+meta-data#io.sentry.auto-init
+ADDED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-17:37
+	android:value
+		ADDED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-34
+	android:name
+		ADDED from [:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-68
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/fec756c3cd0fc5075948632cb694b4fc/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-65
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+uses-feature#0x00020000
+ADDED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:35
+	android:glEsVersion
+		ADDED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-32
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-76
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:12:5-76
+MERGED from [com.twilio:video-android:6.2.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ae1c1b85ee12b58ec75d18b8aae74fea/jetified-video-android-6.2.1/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:22-73
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:114:13-118:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:138:25-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a2e27343e7e0da56f6ad5ca3b73b2af4/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/e8725c83c4fb7d2459e20a0b5c73cf17/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:33:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:50:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/51266bd76b4911cd99c6c37f6b143f84/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/6c6e3684f7d5ece36cc1e482e44da874/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:16:9-19:40
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:18:13-70
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:17:13-69
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

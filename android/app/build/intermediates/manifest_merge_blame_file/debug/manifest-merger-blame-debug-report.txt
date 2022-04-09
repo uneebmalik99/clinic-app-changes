@@ -1,0 +1,733 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.clinic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <!--
+13         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+14         Google Maps Android API v2, but you must specify either coarse or fine
+15         location permissions for the "MyLocation" functionality.
+16    -->
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:12:5-80
+17-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:13:5-71
+18-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:13:22-68
+19
+20    <uses-feature
+20-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:5-89
+21        android:name="android.hardware.microphone"
+21-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:19-61
+22        android:required="false" />
+22-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:14:62-86
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:15:5-67
+24-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:15:22-64
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:16:5-80
+25-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:16:22-77
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:17:5-81
+26-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:17:22-78
+27    <uses-permission android:name="android.permission.CAMERA" />
+27-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:18:5-65
+27-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:18:22-62
+28    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+28-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:19:5-81
+28-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:19:22-78
+29    <uses-permission android:name="android.permission.VIBRATE" />
+29-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:20:5-66
+29-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:20:22-63
+30
+31    <uses-feature android:name="android.hardware.camera" />
+31-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:21:5-60
+31-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:21:19-57
+32    <uses-feature android:name="android.hardware.camera.autofocus" />
+32-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:22:5-69
+32-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:22:19-67
+33
+34    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+34-->[com.facebook.flipper:flipper:0.54.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:5-76
+34-->[com.facebook.flipper:flipper:0.54.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/654313f96eb61978b0556e8cae024460/flipper-0.54.0/AndroidManifest.xml:16:22-73
+35    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+35-->[:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+35-->[:react-native-community_netinfo] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+36    <uses-permission android:name="android.permission.WAKE_LOCK" />
+36-->[:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+36-->[:react-native-background-timer] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+37
+38    <uses-feature
+38-->[:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-15:35
+39        android:glEsVersion="0x00020000"
+39-->[:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-41
+40        android:required="true" /> <!-- Required to access Google Play Licensing -->
+40-->[:react-native-twilio-video-webrtc] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-twilio-video-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-32
+41    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+41-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+41-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+42    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+42-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:28:5-77
+42-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:28:22-74
+43    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
+43-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+43-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+44    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+45    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+46    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+47    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+48    <!-- for Samsung -->
+49    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+50    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+51    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+52    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+53    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+54    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+55    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+56    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+57    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+58    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+59    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+60    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+60-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+60-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+61    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+61-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+61-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+62    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+62-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+62-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+63    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+63-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+63-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+64    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+64-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+64-->[me.leolin:ShortcutBadger:1.1.22] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/1aa18b5db86910cf3458d8da4af1bf12/ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+65    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+65-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+65-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+66
+67    <application
+67-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:23:5-124:19
+68        android:name="com.clinic.MainApplication"
+68-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:24:9-50
+69        android:allowBackup="false"
+69-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:25:9-36
+70        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+70-->[androidx.core:core:1.6.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f276d3fac3fa719ef5d507fba8906e82/core-1.6.0/AndroidManifest.xml:24:18-86
+71        android:debuggable="true"
+72        android:icon="@mipmap/ic_launcher"
+72-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:26:9-43
+73        android:label="@string/app_name"
+73-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:27:9-41
+74        android:requestLegacyExternalStorage="true"
+74-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:28:9-52
+75        android:theme="@style/AppTheme"
+75-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:29:9-40
+76        android:usesCleartextTraffic="true" >
+76-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:30:9-44
+77        <!--
+78             The API key for Google Maps-based APIs is defined as a string resource.
+79             (See the file "res/values/google_maps_api.xml").
+80             Note that the API key is linked to the encryption key used to sign the APK.
+81             You need a different API key for each encryption key, including the release key that is used to
+82             sign the APK for publishing.
+83             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+84        -->
+85        <!--
+86             The API key for Google Maps-based APIs is defined as a string resource.
+87             (See the file "res/values/google_maps_api.xml").
+88             Note that the API key is linked to the encryption key used to sign the APK.
+89             You need a different API key for each encryption key, including the release key that is used to
+90             sign the APK for publishing.
+91             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+92        -->
+93        <!--
+94             The API key for Google Maps-based APIs is defined as a string resource.
+95             (See the file "res/values/google_maps_api.xml").
+96             Note that the API key is linked to the encryption key used to sign the APK.
+97             You need a different API key for each encryption key, including the release key that is used to
+98             sign the APK for publishing.
+99             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+100        -->
+101        <receiver android:name="com.clinic.notification.RNFirebaseNotificationReceiver" />
+101-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:57:9-91
+101-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:57:19-88
+102        <receiver
+102-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:58:9-68:20
+103            android:name="com.clinic.notification.RNFirebaseNotificationsRebootReceiver"
+103-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:59:13-89
+104            android:enabled="true"
+104-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:60:13-35
+105            android:exported="true" >
+105-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:61:13-36
+106            <intent-filter>
+106-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:62:13-67:29
+107                <action android:name="android.intent.action.BOOT_COMPLETED" />
+107-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:17-79
+107-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:25-76
+108                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+108-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:17-82
+108-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:25-79
+109                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+109-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:17-82
+109-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:25-79
+110
+111                <category android:name="android.intent.category.DEFAULT" />
+111-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:66:17-76
+111-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:66:27-73
+112            </intent-filter>
+113        </receiver>
+114
+115        <service
+115-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:71:9-77:19
+116            android:name="com.clinic.notification.RNFirebaseMessagingService"
+116-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:72:13-78
+117            android:exported="false" >
+117-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:73:13-37
+118            <intent-filter>
+118-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:74:13-76:29
+119                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+119-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:17-78
+119-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:25-75
+120            </intent-filter>
+121        </service>
+122        <service android:name="com.clinic.notification.RNFirebaseBackgroundMessagingService" />
+122-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:79:9-96
+122-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:79:18-93
+123
+124        <meta-data
+124-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:81:3-82:44
+125            android:name="com.dieam.reactnativepushnotification.notification_foreground"
+125-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:81:15-91
+126            android:value="false" /> <!-- Change the resource name to your App's accent color - or any other color you want -->
+126-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:82:21-42
+127        <meta-data
+127-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:84:9-85:54
+128            android:name="com.dieam.reactnativepushnotification.notification_color"
+128-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:84:21-92
+129            android:resource="@color/white" /> <!-- or @android:color/{name} to use a standard color -->
+129-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:85:21-52
+130        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions" />
+130-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:87:9-108
+130-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:87:19-105
+131        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+131-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:88:9-110
+131-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:88:19-107
+132        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver" >
+132-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:89:9-95:20
+132-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:89:19-115
+133            <intent-filter>
+133-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:90:13-94:29
+134                <action android:name="android.intent.action.BOOT_COMPLETED" />
+134-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:17-79
+134-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:25-76
+135                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+135-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:17-82
+135-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:64:25-79
+136                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+136-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:17-82
+136-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:65:25-79
+137            </intent-filter>
+138        </receiver>
+139
+140        <service
+140-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:97:9-103:19
+141            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+141-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:98:13-107
+142            android:exported="false" >
+142-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:99:13-37
+143            <intent-filter>
+143-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:74:13-76:29
+144                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+144-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:17-78
+144-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:25-75
+145            </intent-filter>
+146        </service>
+147
+148        <activity
+148-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:106:9-114:20
+149            android:name="com.clinic.SplashActivity"
+149-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:107:13-53
+150            android:screenOrientation="portrait" >
+150-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:108:13-49
+151            <intent-filter>
+151-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:109:13-113:29
+152                <action android:name="android.intent.action.MAIN" />
+152-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:110:17-69
+152-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:110:25-66
+153
+154                <category android:name="android.intent.category.LAUNCHER" />
+154-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:112:17-77
+154-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:112:27-74
+155            </intent-filter>
+156        </activity>
+157        <activity
+157-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:115:9-122:55
+158            android:name="com.clinic.MainActivity"
+158-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:116:13-51
+159            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+159-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:117:13-90
+160            android:exported="true"
+160-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:121:13-36
+161            android:label="@string/app_name"
+161-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:118:13-45
+162            android:launchMode="singleTask"
+162-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:119:13-44
+163            android:screenOrientation="portrait"
+163-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:120:13-49
+164            android:windowSoftInputMode="adjustPan" />
+164-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:122:13-52
+165        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+165-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:123:9-86
+165-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:123:19-83
+166
+167        <meta-data
+167-->[:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-17:37
+168            android:name="io.sentry.auto-init"
+168-->[:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+169            android:value="false" />
+169-->[:sentry_react-native] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/@sentry/react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-34
+170
+171        <provider
+171-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+172            android:name="com.imagepicker.FileProvider"
+172-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-56
+173            android:authorities="com.clinic.provider"
+173-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-60
+174            android:exported="false"
+174-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+175            android:grantUriPermissions="true" >
+175-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+176            <meta-data
+176-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:58
+177                android:name="android.support.FILE_PROVIDER_PATHS"
+177-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+178                android:resource="@xml/provider_paths" />
+178-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-55
+179        </provider>
+180        <provider
+180-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+181            android:name="com.RNFetchBlob.Utils.FileProvider"
+181-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+182            android:authorities="com.clinic.provider"
+182-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+183            android:exported="false"
+183-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+184            android:grantUriPermissions="true" >
+184-->[:rn-fetch-blob] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+185            <meta-data
+185-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:58
+186                android:name="android.support.FILE_PROVIDER_PATHS"
+186-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+187                android:resource="@xml/provider_paths" />
+187-->[:react-native-image-picker] /Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-55
+188        </provider>
+189        <provider
+189-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:31:9-37:35
+190            android:name="androidx.work.impl.WorkManagerInitializer"
+190-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:32:13-69
+191            android:authorities="com.clinic.workmanager-init"
+191-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:33:13-68
+192            android:directBootAware="false"
+192-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:34:13-44
+193            android:exported="false"
+193-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:35:13-37
+194            android:multiprocess="true" />
+194-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:36:13-40
+195
+196        <service
+196-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:39:9-44:35
+197            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+197-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:40:13-88
+198            android:directBootAware="false"
+198-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:41:13-44
+199            android:enabled="@bool/enable_system_alarm_service_default"
+199-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:42:13-72
+200            android:exported="false" />
+200-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:43:13-37
+201        <service
+201-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:45:9-51:35
+202            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+202-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:46:13-84
+203            android:directBootAware="false"
+203-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:47:13-44
+204            android:enabled="@bool/enable_system_job_service_default"
+204-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:48:13-70
+205            android:exported="true"
+205-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:49:13-36
+206            android:permission="android.permission.BIND_JOB_SERVICE" />
+206-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:50:13-69
+207        <service
+207-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:52:9-57:35
+208            android:name="androidx.work.impl.foreground.SystemForegroundService"
+208-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:53:13-81
+209            android:directBootAware="false"
+209-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:54:13-44
+210            android:enabled="@bool/enable_system_foreground_service_default"
+210-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:55:13-77
+211            android:exported="false" />
+211-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:56:13-37
+212
+213        <receiver
+213-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:59:9-64:35
+214            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+214-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:60:13-88
+215            android:directBootAware="false"
+215-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:61:13-44
+216            android:enabled="true"
+216-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:62:13-35
+217            android:exported="false" />
+217-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:63:13-37
+218        <receiver
+218-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:65:9-75:20
+219            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+219-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:66:13-106
+220            android:directBootAware="false"
+220-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:67:13-44
+221            android:enabled="false"
+221-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:68:13-36
+222            android:exported="false" >
+222-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:69:13-37
+223            <intent-filter>
+223-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:71:13-74:29
+224                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+224-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:72:17-87
+224-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:72:25-84
+225                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+225-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:73:17-90
+225-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:73:25-87
+226            </intent-filter>
+227        </receiver>
+228        <receiver
+228-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:76:9-86:20
+229            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+229-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:77:13-104
+230            android:directBootAware="false"
+230-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:78:13-44
+231            android:enabled="false"
+231-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:79:13-36
+232            android:exported="false" >
+232-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:80:13-37
+233            <intent-filter>
+233-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:82:13-85:29
+234                <action android:name="android.intent.action.BATTERY_OKAY" />
+234-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:83:17-77
+234-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:83:25-74
+235                <action android:name="android.intent.action.BATTERY_LOW" />
+235-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:84:17-76
+235-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:84:25-73
+236            </intent-filter>
+237        </receiver>
+238        <receiver
+238-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:87:9-97:20
+239            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+239-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:88:13-104
+240            android:directBootAware="false"
+240-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:89:13-44
+241            android:enabled="false"
+241-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:90:13-36
+242            android:exported="false" >
+242-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:91:13-37
+243            <intent-filter>
+243-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:93:13-96:29
+244                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+244-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:94:17-83
+244-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:94:25-80
+245                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+245-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:95:17-82
+245-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:95:25-79
+246            </intent-filter>
+247        </receiver>
+248        <receiver
+248-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:98:9-107:20
+249            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+249-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:99:13-103
+250            android:directBootAware="false"
+250-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:100:13-44
+251            android:enabled="false"
+251-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:101:13-36
+252            android:exported="false" >
+252-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:102:13-37
+253            <intent-filter>
+253-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:104:13-106:29
+254                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+254-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:105:17-79
+254-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:105:25-76
+255            </intent-filter>
+256        </receiver>
+257        <receiver
+257-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:108:9-119:20
+258            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+258-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:109:13-88
+259            android:directBootAware="false"
+259-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:110:13-44
+260            android:enabled="false"
+260-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:111:13-36
+261            android:exported="false" >
+261-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:112:13-37
+262            <intent-filter>
+262-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:114:13-118:29
+263                <action android:name="android.intent.action.BOOT_COMPLETED" />
+263-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:17-79
+263-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:63:25-76
+264                <action android:name="android.intent.action.TIME_SET" />
+264-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:116:17-73
+264-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:116:25-70
+265                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+265-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:117:17-81
+265-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:117:25-78
+266            </intent-filter>
+267        </receiver>
+268        <receiver
+268-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:120:9-129:20
+269            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+269-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:121:13-99
+270            android:directBootAware="false"
+270-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:122:13-44
+271            android:enabled="@bool/enable_system_alarm_service_default"
+271-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:123:13-72
+272            android:exported="false" >
+272-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:124:13-37
+273            <intent-filter>
+273-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:126:13-128:29
+274                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+274-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:127:17-98
+274-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:127:25-95
+275            </intent-filter>
+276        </receiver>
+277        <receiver
+277-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:130:9-140:20
+278            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+278-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:131:13-78
+279            android:directBootAware="false"
+279-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:132:13-44
+280            android:enabled="true"
+280-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:133:13-35
+281            android:exported="true"
+281-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:134:13-36
+282            android:permission="android.permission.DUMP" >
+282-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:135:13-57
+283            <intent-filter>
+283-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:137:13-139:29
+284                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+284-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:138:17-88
+284-->[androidx.work:work-runtime:2.4.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a630e198c41d8e38bb2dc78f1bb80a67/work-runtime-2.4.0/AndroidManifest.xml:138:25-85
+285            </intent-filter>
+286        </receiver>
+287        <receiver
+287-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+288            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+288-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+289            android:exported="true"
+289-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+290            android:permission="com.google.android.c2dm.permission.SEND" >
+290-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+291            <intent-filter>
+291-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:32:13-34:29
+292                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+292-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:33:17-81
+292-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:33:25-78
+293            </intent-filter>
+294        </receiver>
+295        <!--
+296             FirebaseMessagingService performs security checks at runtime,
+297             but set to not exported to explicitly avoid allowing another app to call it.
+298        -->
+299        <service
+299-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+300            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+300-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+301            android:directBootAware="true"
+301-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+302            android:exported="false" >
+302-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+303            <intent-filter android:priority="-500" >
+303-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:74:13-76:29
+304                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+304-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:17-78
+304-->/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/src/main/AndroidManifest.xml:75:25-75
+305            </intent-filter>
+306        </service>
+307        <service
+307-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+308            android:name="com.google.firebase.components.ComponentDiscoveryService"
+308-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:50:13-84
+309            android:directBootAware="true"
+309-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+310            android:exported="false" >
+310-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+311            <meta-data
+311-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+312                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+312-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+313                android:value="com.google.firebase.components.ComponentRegistrar" />
+313-->[com.google.firebase:firebase-messaging:22.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/72d10f745c103c969e56dc10d9305506/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+314            <meta-data
+314-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+315                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+315-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+316                android:value="com.google.firebase.components.ComponentRegistrar" />
+316-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/579fc47adaeffdfc7146eff342addf28/firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+317            <meta-data
+317-->[com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+318                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+318-->[com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+319                android:value="com.google.firebase.components.ComponentRegistrar" />
+319-->[com.google.android.gms:play-services-measurement-api:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/b6a30245d4643535be7a1a76d18a6cdd/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+320            <meta-data
+320-->[com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+321                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+321-->[com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+322                android:value="com.google.firebase.components.ComponentRegistrar" />
+322-->[com.google.firebase:firebase-installations:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/f1375f3bc81ad012f8984b7a71ed131e/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+323        </service>
+324        <service
+324-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+325            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+325-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+326            android:exported="false" >
+326-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+327            <meta-data
+327-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+328                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+328-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+329                android:value="cct" />
+329-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/35fb522d0c7db8222fa5da32e005732a/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+330        </service>
+331
+332        <provider
+332-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+333            android:name="com.google.firebase.provider.FirebaseInitProvider"
+333-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+334            android:authorities="com.clinic.firebaseinitprovider"
+334-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+335            android:directBootAware="true"
+335-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+336            android:exported="false"
+336-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+337            android:initOrder="100" />
+337-->[com.google.firebase:firebase-common:20.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/3d90077e13bdfb1959a63b6bef90e64c/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+338
+339        <service
+339-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+340            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+340-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+341            android:exported="false"
+341-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+342            android:permission="android.permission.BIND_JOB_SERVICE" >
+342-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+343        </service>
+344
+345        <receiver
+345-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+346            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+346-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+347            android:exported="false" />
+347-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/c5cead9dc18e4d7ea298ab188896804e/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+348
+349        <service
+349-->[androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+350            android:name="androidx.room.MultiInstanceInvalidationService"
+350-->[androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+351            android:directBootAware="true"
+351-->[androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+352            android:exported="false" />
+352-->[androidx.room:room-runtime:2.2.5] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/a1648131d91c12c0ce7ceabcef5693a3/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+353
+354        <receiver
+354-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+355            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+355-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+356            android:enabled="true"
+356-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+357            android:exported="false" >
+357-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+358        </receiver>
+359
+360        <service
+360-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+361            android:name="com.google.android.gms.measurement.AppMeasurementService"
+361-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+362            android:enabled="true"
+362-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+363            android:exported="false" />
+363-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+364        <service
+364-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+365            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+365-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+366            android:enabled="true"
+366-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+367            android:exported="false"
+367-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+368            android:permission="android.permission.BIND_JOB_SERVICE" />
+368-->[com.google.android.gms:play-services-measurement:19.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/79f8d86efe909ce8cd138319c3681396/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+369
+370        <activity
+370-->[com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+371            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+371-->[com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+372            android:exported="false"
+372-->[com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+373            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+373-->[com.google.android.gms:play-services-base:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/87d853b7f2bbd07257eb1da261335371/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+374
+375        <meta-data
+375-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+376            android:name="com.google.android.gms.version"
+376-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+377            android:value="@integer/google_play_services_version" /> <!-- 'android:authorities' must be unique in the device, across all apps -->
+377-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/4c7d9334cb5d5817760619115ac3e5be/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+378        <provider
+378-->[io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:16:9-19:40
+379            android:name="io.sentry.android.core.SentryInitProvider"
+379-->[io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:17:13-69
+380            android:authorities="com.clinic.SentryInitProvider"
+380-->[io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:18:13-70
+381            android:exported="false" />
+381-->[io.sentry:sentry-android-core:2.3.1] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/230351fac6a036bf461461072a0863d2/jetified-sentry-android-core-2.3.1/AndroidManifest.xml:19:13-37
+382        <provider
+382-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+383            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+383-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+384            android:authorities="com.clinic.lifecycle-process"
+384-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+385            android:exported="false"
+385-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+386            android:multiprocess="true" />
+386-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/ec9c00bc21b624aa8d615672857d4b3b/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+387    </application>
+388
+389</manifest>

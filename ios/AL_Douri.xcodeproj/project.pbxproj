@@ -1,0 +1,824 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00E356F31AD99517003FC87E /* AL_DouriTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AL_DouriTests.m */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		804ECDC2266EFA0900D600A8 /* RNFirebase.m in Sources */ = {isa = PBXBuildFile; fileRef = 804ECDB7266EFA0900D600A8 /* RNFirebase.m */; };
+		804ECDC3266EFA0900D600A8 /* RNFirebaseMessaging.m in Sources */ = {isa = PBXBuildFile; fileRef = 804ECDB8266EFA0900D600A8 /* RNFirebaseMessaging.m */; };
+		804ECDC4266EFA0900D600A8 /* FirebasePushNotifications.m in Sources */ = {isa = PBXBuildFile; fileRef = 804ECDBA266EFA0900D600A8 /* FirebasePushNotifications.m */; };
+		804ECDC5266EFA0900D600A8 /* RNFirebaseUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 804ECDBE266EFA0900D600A8 /* RNFirebaseUtil.m */; };
+		804ECDC6266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 804ECDC0266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.m */; };
+		8089E9EB26CA786A00FFDE84 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8089E9E826CA786A00FFDE84 /* GoogleService-Info.plist */; };
+		80BCD9E226C24B30001D7F78 /* GoogleService-Info1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 80BCD9E126C24B30001D7F78 /* GoogleService-Info1.plist */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8CA94B0527F7677F00F11E3B /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8D265D2221008D7D3F /* Poppins-Regular.ttf */; };
+		8CA94B0627F767F900F11E3B /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A91265D2221008D7D3F /* Poppins-Black.ttf */; };
+		8CA94B0727F767F900F11E3B /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A84265D2221008D7D3F /* Poppins-BlackItalic.ttf */; };
+		8CA94B0827F767F900F11E3B /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A85265D2221008D7D3F /* Poppins-Bold.ttf */; };
+		8CA94B0927F767F900F11E3B /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A88265D2221008D7D3F /* Poppins-BoldItalic.ttf */; };
+		8CA94B0A27F767F900F11E3B /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8F265D2221008D7D3F /* Poppins-ExtraBold.ttf */; };
+		8CA94B0B27F767F900F11E3B /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8E265D2221008D7D3F /* Poppins-ExtraBoldItalic.ttf */; };
+		8CA94B0C27F767F900F11E3B /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A93265D2222008D7D3F /* Poppins-ExtraLight.ttf */; };
+		8CA94B0D27F767F900F11E3B /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A89265D2221008D7D3F /* Poppins-ExtraLightItalic.ttf */; };
+		8CA94B0E27F767F900F11E3B /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8B265D2221008D7D3F /* Poppins-Italic.ttf */; };
+		8CA94B0F27F767F900F11E3B /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A90265D2221008D7D3F /* Poppins-LightItalic.ttf */; };
+		8CA94B1027F767F900F11E3B /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A86265D2221008D7D3F /* Poppins-Medium.ttf */; };
+		8CA94B1127F767F900F11E3B /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8C265D2221008D7D3F /* Poppins-MediumItalic.ttf */; };
+		8CA94B1227F767F900F11E3B /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A92265D2221008D7D3F /* Poppins-SemiBoldItalic.ttf */; };
+		8CA94B1327F767F900F11E3B /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A94265D2222008D7D3F /* Poppins-Thin.ttf */; };
+		8CA94B1427F767F900F11E3B /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A87265D2221008D7D3F /* Poppins-ThinItalic.ttf */; };
+		8CAAC3F027F3517E00E76DB5 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A8A265D2221008D7D3F /* Poppins-Light.ttf */; };
+		8CE62F3127F2228500EAD5EA /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80B62A95265D2222008D7D3F /* Poppins-SemiBold.ttf */; };
+		A874D6476DCF08DB9CF56F84 /* libPods-AL_Douri.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA5130EB22376C3AA06B5838 /* libPods-AL_Douri.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
+			remoteInfo = AL_Douri;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		00E356EE1AD99517003FC87E /* AL_DouriTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AL_DouriTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* AL_DouriTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AL_DouriTests.m; sourceTree = "<group>"; };
+		020120D8EE8141C08599C8B7 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		093B62CAAD5F4DCEA54E87C1 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		0A9F7785F4927A2C5925B395 /* libPods-AL_Douri-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AL_Douri-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* AL_Douri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AL_Douri.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = AL_Douri/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = AL_Douri/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = AL_Douri/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AL_Douri/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AL_Douri/main.m; sourceTree = "<group>"; };
+		13EDAEDD7E524C8D80E62466 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		1FA1D7DF329E455E8A7B28AE /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/native-base/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		20C6D456E05C6E9963FEC6BF /* Pods-AL_Douri-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-AL_Douri-tvOS/Pods-AL_Douri-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		279929E6BD3D4D38B7B76903 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		284B66FE9467404F0172D01F /* Pods-AL_Douri.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri.release.xcconfig"; path = "Target Support Files/Pods-AL_Douri/Pods-AL_Douri.release.xcconfig"; sourceTree = "<group>"; };
+		42A869F451854D95BF2FDB0C /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
+		45F2766EF3B349F8BDA62A9A /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		4DDAE0F427194E1B880B31DD /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
+		6C4FF357F16C606448CCB9F9 /* Pods-AL_Douri-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AL_Douri-tvOSTests/Pods-AL_Douri-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		7A2BA7293F1149D380200D44 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		7D0F60A962C54E0F9E374DF3 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		7D520D63DFD244DA99FE668A /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		80445A39267A25CF00620942 /* AL_Douri-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AL_Douri-Bridging-Header.h"; sourceTree = "<group>"; };
+		804ECDB7266EFA0900D600A8 /* RNFirebase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNFirebase.m; path = notifications/RNFirebase.m; sourceTree = "<group>"; };
+		804ECDB8266EFA0900D600A8 /* RNFirebaseMessaging.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNFirebaseMessaging.m; path = notifications/RNFirebaseMessaging.m; sourceTree = "<group>"; };
+		804ECDB9266EFA0900D600A8 /* RNFirebaseUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNFirebaseUtil.h; path = notifications/RNFirebaseUtil.h; sourceTree = "<group>"; };
+		804ECDBA266EFA0900D600A8 /* FirebasePushNotifications.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FirebasePushNotifications.m; path = notifications/FirebasePushNotifications.m; sourceTree = "<group>"; };
+		804ECDBB266EFA0900D600A8 /* RNFirebaseMessaging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNFirebaseMessaging.h; path = notifications/RNFirebaseMessaging.h; sourceTree = "<group>"; };
+		804ECDBC266EFA0900D600A8 /* FirebasePushNotifications.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FirebasePushNotifications.h; path = notifications/FirebasePushNotifications.h; sourceTree = "<group>"; };
+		804ECDBD266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "RCTConvert+UIBackgroundFetchResult.h"; path = "notifications/RCTConvert+UIBackgroundFetchResult.h"; sourceTree = "<group>"; };
+		804ECDBE266EFA0900D600A8 /* RNFirebaseUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNFirebaseUtil.m; path = notifications/RNFirebaseUtil.m; sourceTree = "<group>"; };
+		804ECDBF266EFA0900D600A8 /* RNFirebase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNFirebase.h; path = notifications/RNFirebase.h; sourceTree = "<group>"; };
+		804ECDC0266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "RCTConvert+UIBackgroundFetchResult.m"; path = "notifications/RCTConvert+UIBackgroundFetchResult.m"; sourceTree = "<group>"; };
+		804ECDC1266EFA0900D600A8 /* RNFirebaseEvents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNFirebaseEvents.h; path = notifications/RNFirebaseEvents.h; sourceTree = "<group>"; };
+		8089E9E826CA786A00FFDE84 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		80B62A84265D2221008D7D3F /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-BlackItalic.ttf"; path = "../assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		80B62A85265D2221008D7D3F /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		80B62A86265D2221008D7D3F /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		80B62A87265D2221008D7D3F /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-ThinItalic.ttf"; path = "../assets/fonts/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		80B62A88265D2221008D7D3F /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-BoldItalic.ttf"; path = "../assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		80B62A89265D2221008D7D3F /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-ExtraLightItalic.ttf"; path = "../assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		80B62A8A265D2221008D7D3F /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
+		80B62A8B265D2221008D7D3F /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Italic.ttf"; path = "../assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		80B62A8C265D2221008D7D3F /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-MediumItalic.ttf"; path = "../assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		80B62A8D265D2221008D7D3F /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		80B62A8E265D2221008D7D3F /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-ExtraBoldItalic.ttf"; path = "../assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		80B62A8F265D2221008D7D3F /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-ExtraBold.ttf"; path = "../assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		80B62A90265D2221008D7D3F /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-LightItalic.ttf"; path = "../assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		80B62A91265D2221008D7D3F /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
+		80B62A92265D2221008D7D3F /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-SemiBoldItalic.ttf"; path = "../assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		80B62A93265D2222008D7D3F /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-ExtraLight.ttf"; path = "../assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		80B62A94265D2222008D7D3F /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Thin.ttf"; path = "../assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		80B62A95265D2222008D7D3F /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		80BCD9E126C24B30001D7F78 /* GoogleService-Info1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info1.plist"; sourceTree = "<group>"; };
+		80DF46A02667932400827497 /* AL_Douri.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = AL_Douri.entitlements; path = AL_Douri/AL_Douri.entitlements; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AL_Douri/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		859D285474D0408AA7E28405 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/native-base/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		8ED3FB23B22C420E812AFF9B /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/native-base/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		9424000B2C82E9845A2199DE /* Pods-AL_Douri-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AL_Douri-tvOS/Pods-AL_Douri-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		97C8B86EF76AB57C306F0376 /* Pods-AL_Douri-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AL_Douri-tvOSTests/Pods-AL_Douri-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A795F36FC630413C9445FE2D /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/native-base/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		AD525BBA8B184D9C905B9C80 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		BD3137071114446FA987369F /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		E81AA5C29AD0E7728541ABF2 /* Pods-AL_Douri.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AL_Douri.debug.xcconfig"; path = "Target Support Files/Pods-AL_Douri/Pods-AL_Douri.debug.xcconfig"; sourceTree = "<group>"; };
+		ECADA40FC4204A0B91E20D3A /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		F0D0D979DA044285B5919B3F /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		F51A7DBA6B129EDCAB858BDB /* libPods-AL_Douri-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AL_Douri-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA5130EB22376C3AA06B5838 /* libPods-AL_Douri.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AL_Douri.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA78AD57F2DB4B0D9F73F882 /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		00E356EB1AD99517003FC87E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8C1A680F5B00A75B9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A874D6476DCF08DB9CF56F84 /* libPods-AL_Douri.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00E356EF1AD99517003FC87E /* AL_DouriTests */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F21AD99517003FC87E /* AL_DouriTests.m */,
+				00E356F01AD99517003FC87E /* Supporting Files */,
+			);
+			path = AL_DouriTests;
+			sourceTree = "<group>";
+		};
+		00E356F01AD99517003FC87E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				00E356F11AD99517003FC87E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		13B07FAE1A68108700A75B9A /* AL_Douri */ = {
+			isa = PBXGroup;
+			children = (
+				8089E9E826CA786A00FFDE84 /* GoogleService-Info.plist */,
+				80BCD9E126C24B30001D7F78 /* GoogleService-Info1.plist */,
+				804ECDBC266EFA0900D600A8 /* FirebasePushNotifications.h */,
+				804ECDBA266EFA0900D600A8 /* FirebasePushNotifications.m */,
+				804ECDBD266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.h */,
+				804ECDC0266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.m */,
+				804ECDBF266EFA0900D600A8 /* RNFirebase.h */,
+				804ECDB7266EFA0900D600A8 /* RNFirebase.m */,
+				804ECDC1266EFA0900D600A8 /* RNFirebaseEvents.h */,
+				804ECDBB266EFA0900D600A8 /* RNFirebaseMessaging.h */,
+				804ECDB8266EFA0900D600A8 /* RNFirebaseMessaging.m */,
+				804ECDB9266EFA0900D600A8 /* RNFirebaseUtil.h */,
+				804ECDBE266EFA0900D600A8 /* RNFirebaseUtil.m */,
+				80445A39267A25CF00620942 /* AL_Douri-Bridging-Header.h */,
+				80DF46A02667932400827497 /* AL_Douri.entitlements */,
+				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
+				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+				13B07FB01A68108700A75B9A /* AppDelegate.m */,
+				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				13B07FB61A68108700A75B9A /* Info.plist */,
+				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
+				13B07FB71A68108700A75B9A /* main.m */,
+			);
+			name = AL_Douri;
+			sourceTree = "<group>";
+		};
+		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
+				FA5130EB22376C3AA06B5838 /* libPods-AL_Douri.a */,
+				0A9F7785F4927A2C5925B395 /* libPods-AL_Douri-tvOS.a */,
+				F51A7DBA6B129EDCAB858BDB /* libPods-AL_Douri-tvOSTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		48D78DF6AE2C45A7B1AF0B6F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				80B62A91265D2221008D7D3F /* Poppins-Black.ttf */,
+				80B62A84265D2221008D7D3F /* Poppins-BlackItalic.ttf */,
+				80B62A85265D2221008D7D3F /* Poppins-Bold.ttf */,
+				80B62A88265D2221008D7D3F /* Poppins-BoldItalic.ttf */,
+				80B62A8F265D2221008D7D3F /* Poppins-ExtraBold.ttf */,
+				80B62A8E265D2221008D7D3F /* Poppins-ExtraBoldItalic.ttf */,
+				80B62A93265D2222008D7D3F /* Poppins-ExtraLight.ttf */,
+				80B62A89265D2221008D7D3F /* Poppins-ExtraLightItalic.ttf */,
+				80B62A8B265D2221008D7D3F /* Poppins-Italic.ttf */,
+				80B62A8A265D2221008D7D3F /* Poppins-Light.ttf */,
+				80B62A90265D2221008D7D3F /* Poppins-LightItalic.ttf */,
+				80B62A86265D2221008D7D3F /* Poppins-Medium.ttf */,
+				80B62A8C265D2221008D7D3F /* Poppins-MediumItalic.ttf */,
+				80B62A8D265D2221008D7D3F /* Poppins-Regular.ttf */,
+				80B62A95265D2222008D7D3F /* Poppins-SemiBold.ttf */,
+				80B62A92265D2221008D7D3F /* Poppins-SemiBoldItalic.ttf */,
+				80B62A94265D2222008D7D3F /* Poppins-Thin.ttf */,
+				80B62A87265D2221008D7D3F /* Poppins-ThinItalic.ttf */,
+				093B62CAAD5F4DCEA54E87C1 /* AntDesign.ttf */,
+				7A2BA7293F1149D380200D44 /* Entypo.ttf */,
+				F0D0D979DA044285B5919B3F /* EvilIcons.ttf */,
+				1FA1D7DF329E455E8A7B28AE /* Feather.ttf */,
+				7D0F60A962C54E0F9E374DF3 /* FontAwesome.ttf */,
+				7D520D63DFD244DA99FE668A /* FontAwesome5_Brands.ttf */,
+				BD3137071114446FA987369F /* FontAwesome5_Regular.ttf */,
+				13EDAEDD7E524C8D80E62466 /* FontAwesome5_Solid.ttf */,
+				859D285474D0408AA7E28405 /* Fontisto.ttf */,
+				A795F36FC630413C9445FE2D /* Foundation.ttf */,
+				8ED3FB23B22C420E812AFF9B /* Ionicons.ttf */,
+				020120D8EE8141C08599C8B7 /* MaterialCommunityIcons.ttf */,
+				ECADA40FC4204A0B91E20D3A /* MaterialIcons.ttf */,
+				AD525BBA8B184D9C905B9C80 /* Octicons.ttf */,
+				FA78AD57F2DB4B0D9F73F882 /* Roboto_medium.ttf */,
+				42A869F451854D95BF2FDB0C /* Roboto.ttf */,
+				4DDAE0F427194E1B880B31DD /* rubicon-icon-font.ttf */,
+				279929E6BD3D4D38B7B76903 /* SimpleLineIcons.ttf */,
+				45F2766EF3B349F8BDA62A9A /* Zocial.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* AL_Douri */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				00E356EF1AD99517003FC87E /* AL_DouriTests */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				48D78DF6AE2C45A7B1AF0B6F /* Resources */,
+				9DE735962D81C6D68C062908 /* Pods */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* AL_Douri.app */,
+				00E356EE1AD99517003FC87E /* AL_DouriTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9DE735962D81C6D68C062908 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E81AA5C29AD0E7728541ABF2 /* Pods-AL_Douri.debug.xcconfig */,
+				284B66FE9467404F0172D01F /* Pods-AL_Douri.release.xcconfig */,
+				20C6D456E05C6E9963FEC6BF /* Pods-AL_Douri-tvOS.debug.xcconfig */,
+				9424000B2C82E9845A2199DE /* Pods-AL_Douri-tvOS.release.xcconfig */,
+				97C8B86EF76AB57C306F0376 /* Pods-AL_Douri-tvOSTests.debug.xcconfig */,
+				6C4FF357F16C606448CCB9F9 /* Pods-AL_Douri-tvOSTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00E356ED1AD99517003FC87E /* AL_DouriTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AL_DouriTests" */;
+			buildPhases = (
+				00E356EA1AD99517003FC87E /* Sources */,
+				00E356EB1AD99517003FC87E /* Frameworks */,
+				00E356EC1AD99517003FC87E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00E356F51AD99517003FC87E /* PBXTargetDependency */,
+			);
+			name = AL_DouriTests;
+			productName = AL_DouriTests;
+			productReference = 00E356EE1AD99517003FC87E /* AL_DouriTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		13B07F861A680F5B00A75B9A /* AL_Douri */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AL_Douri" */;
+			buildPhases = (
+				A8237CF41DEEFAB0A0C0480D /* [CP] Check Pods Manifest.lock */,
+				FD10A7F022414F080027D42C /* Start Packager */,
+				13B07F871A680F5B00A75B9A /* Sources */,
+				13B07F8C1A680F5B00A75B9A /* Frameworks */,
+				13B07F8E1A680F5B00A75B9A /* Resources */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				33BCF8D6BD79DB815C85FF58 /* [CP] Copy Pods Resources */,
+				09498CEF7AB847F7972D3EC5 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AL_Douri;
+			productName = AL_Douri;
+			productReference = 13B07F961A680F5B00A75B9A /* AL_Douri.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1130;
+				TargetAttributes = {
+					00E356ED1AD99517003FC87E = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 878G75LBJH;
+						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = QY6U89G7X7;
+						LastSwiftMigration = 1120;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AL_Douri" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83CBB9F61A601CBA00E9B192;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				13B07F861A680F5B00A75B9A /* AL_Douri */,
+				00E356ED1AD99517003FC87E /* AL_DouriTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00E356EC1AD99517003FC87E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F8E1A680F5B00A75B9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CA94B0627F767F900F11E3B /* Poppins-Black.ttf in Resources */,
+				8CA94B0727F767F900F11E3B /* Poppins-BlackItalic.ttf in Resources */,
+				8CA94B0827F767F900F11E3B /* Poppins-Bold.ttf in Resources */,
+				8CA94B0927F767F900F11E3B /* Poppins-BoldItalic.ttf in Resources */,
+				8CA94B0A27F767F900F11E3B /* Poppins-ExtraBold.ttf in Resources */,
+				8CA94B0B27F767F900F11E3B /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				8CA94B0C27F767F900F11E3B /* Poppins-ExtraLight.ttf in Resources */,
+				8CA94B0D27F767F900F11E3B /* Poppins-ExtraLightItalic.ttf in Resources */,
+				8CA94B0E27F767F900F11E3B /* Poppins-Italic.ttf in Resources */,
+				8CA94B0F27F767F900F11E3B /* Poppins-LightItalic.ttf in Resources */,
+				8CA94B1027F767F900F11E3B /* Poppins-Medium.ttf in Resources */,
+				8CA94B1127F767F900F11E3B /* Poppins-MediumItalic.ttf in Resources */,
+				8CA94B1227F767F900F11E3B /* Poppins-SemiBoldItalic.ttf in Resources */,
+				8CA94B1327F767F900F11E3B /* Poppins-Thin.ttf in Resources */,
+				8CA94B1427F767F900F11E3B /* Poppins-ThinItalic.ttf in Resources */,
+				8CA94B0527F7677F00F11E3B /* Poppins-Regular.ttf in Resources */,
+				8CAAC3F027F3517E00E76DB5 /* Poppins-Light.ttf in Resources */,
+				8CE62F3127F2228500EAD5EA /* Poppins-SemiBold.ttf in Resources */,
+				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				8089E9EB26CA786A00FFDE84 /* GoogleService-Info.plist in Resources */,
+				80BCD9E226C24B30001D7F78 /* GoogleService-Info1.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native code and images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		09498CEF7AB847F7972D3EC5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AL_Douri/Pods-AL_Douri-frameworks.sh",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/TwilioVideo/TwilioVideo.framework/TwilioVideo",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwilioVideo.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AL_Douri/Pods-AL_Douri-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		33BCF8D6BD79DB815C85FF58 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AL_Douri/Pods-AL_Douri-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AL_Douri/Pods-AL_Douri-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A8237CF41DEEFAB0A0C0480D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AL_Douri-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD10A7F022414F080027D42C /* Start Packager */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Start Packager";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00E356EA1AD99517003FC87E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00E356F31AD99517003FC87E /* AL_DouriTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		13B07F871A680F5B00A75B9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				804ECDC2266EFA0900D600A8 /* RNFirebase.m in Sources */,
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				804ECDC6266EFA0900D600A8 /* RCTConvert+UIBackgroundFetchResult.m in Sources */,
+				804ECDC4266EFA0900D600A8 /* FirebasePushNotifications.m in Sources */,
+				804ECDC5266EFA0900D600A8 /* RNFirebaseUtil.m in Sources */,
+				804ECDC3266EFA0900D600A8 /* RNFirebaseMessaging.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 13B07F861A680F5B00A75B9A /* AL_Douri */;
+			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00E356F61AD99517003FC87E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 878G75LBJH;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = AL_DouriTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.ClinicApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AL_Douri.app/AL_Douri";
+			};
+			name = Debug;
+		};
+		00E356F71AD99517003FC87E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = 878G75LBJH;
+				INFOPLIST_FILE = AL_DouriTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lc++",
+					"$(inherited)",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.ClinicApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AL_Douri.app/AL_Douri";
+			};
+			name = Release;
+		};
+		13B07F941A680F5B00A75B9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E81AA5C29AD0E7728541ABF2 /* Pods-AL_Douri.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AL_Douri/AL_Douri.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = QY6U89G7X7;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = AL_Douri/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0.3;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = de.smileunion.app;
+				PRODUCT_NAME = AL_Douri;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		13B07F951A680F5B00A75B9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 284B66FE9467404F0172D01F /* Pods-AL_Douri.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = AL_Douri/AL_Douri.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = QY6U89G7X7;
+				INFOPLIST_FILE = AL_Douri/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0.3;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = de.smileunion.app;
+				PRODUCT_NAME = AL_Douri;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		83CBBA201A601CBA00E9B192 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		83CBBA211A601CBA00E9B192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "/usr/lib/swift $(inherited)";
+				LIBRARY_SEARCH_PATHS = (
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
+					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
+					"\"$(inherited)\"",
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "AL_DouriTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00E356F61AD99517003FC87E /* Debug */,
+				00E356F71AD99517003FC87E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "AL_Douri" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				13B07F941A680F5B00A75B9A /* Debug */,
+				13B07F951A680F5B00A75B9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "AL_Douri" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83CBBA201A601CBA00E9B192 /* Debug */,
+				83CBBA211A601CBA00E9B192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+}

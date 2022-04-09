@@ -1,0 +1,123 @@
+import {StyleSheet} from 'react-native';
+import {color} from 'react-native-reanimated';
+import {Colors, FontName} from '../../../utils';
+
+export default styles = StyleSheet.create({
+  txtAlignerCount: {
+    alignSelf: 'center',
+    marginTop: 51,
+    fontSize: 22,
+    color: Colors.PureBlack,
+    fontFamily: FontName.simibold,
+  },
+  txtDays: {
+    alignSelf: 'center',
+    textAlign: 'center',
+    paddingHorizontal: 10,
+    fontFamily: FontName.regular,
+    color: Colors.PureBlack,
+  },
+  txtUserNameBold: {
+    textAlign: 'center',
+    width: '100%',
+    marginTop: 56,
+    fontSize: 20,
+    fontFamily: FontName.simibold,
+    color: Colors.PureBlack,
+  },
+  txtWeekName: {
+    width: 41,
+    height: 40,
+    textAlign: 'center',
+    lineHeight: 41,
+    fontSize: 14,
+    textAlignVertical: 'center',
+    fontFamily: FontName.simibold,
+    color: Colors.PureBlack,
+    marginLeft: 4,
+    marginRight: 4,
+  },
+  flatListDate: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+  txtWeekDays: {
+    backgroundColor: Colors.LightBlue,
+    width: 41,
+    height: 40,
+    textAlign: 'center',
+    lineHeight: 41,
+    fontSize: 14,
+    textAlignVertical: 'center',
+    fontFamily: FontName.regular,
+    color: Colors.PureBlack,
+    marginLeft: 4,
+    marginRight: 4,
+  },
+  txtSelectedWeekDays: {
+    backgroundColor: Colors.PINK,
+    width: 41,
+    height: 40,
+    lineHeight: 41,
+    textAlign: 'center',
+    fontSize: 14,
+    textAlignVertical: 'center',
+    fontFamily: FontName.regular,
+    color: Colors.Defaultwhite,
+    marginLeft: 4,
+    marginRight: 4,
+  },
+  txtDailyTracker: {
+    alignSelf: 'center',
+    marginTop: 24,
+    fontFamily: FontName.simibold,
+    fontSize: 22,
+    color: Colors.LightBlack,
+  },
+  txtTimeCounter: {
+    alignSelf: 'center',
+    fontFamily: FontName.simibold,
+    fontSize: 45,
+    color: Colors.LightBlack,
+  },
+
+  txtTimeLeft: {
+    alignSelf: 'center',
+    fontFamily: FontName.regular,
+    fontSize: 16,
+    color: Colors.LightBlack,
+  },
+  txtStatus: {
+    alignSelf: 'center',
+    fontFamily: FontName.regular,
+    fontSize: 14,
+    color: Colors.LightBlack,
+  },
+
+  outer_circle: {
+    marginTop: 10,
+    alignSelf: 'center',
+    width: 171,
+    height: 171,
+    borderRadius: 171 / 2,
+    backgroundColor: Colors.LIGH_PINK,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  inner_circle: {
+    width: 132,
+    alignItems: 'center',
+    justifyContent: 'center',
+    height: 132,
+    borderRadius: 132 / 2,
+    backgroundColor: Colors.LIGH_PINK,
+  },
+
+  txtStart: {
+    alignSelf: 'center',
+    fontFamily: FontName.simibold,
+    fontSize: 20,
+    textAlign: 'center',
+    color: Colors.Defaultwhite,
+  },
+});

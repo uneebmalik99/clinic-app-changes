@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sohailferoz/Desktop/React Native/clinic-app-changes/untitled folder/clinic-app-changes/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/sohailferoz/.gradle/caches/transforms-2/files-2.1/691b16344e947b9904668e9deb44e4b9/WheelPicker-1.0.3/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                }
+            ]
+        }
+    ]
+}

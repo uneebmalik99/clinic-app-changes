@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>120838245077-qubqhdggsee06plg9sr8ic08hdt8jvar.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.120838245077-qubqhdggsee06plg9sr8ic08hdt8jvar</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>120838245077-n81v6vcljg0oubsbomphk885i6tca6ni.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFVDPBlB1wgbT8W49lG6n9Uu0R5tsP80Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>120838245077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smileunion</string>
+	<key>PROJECT_ID</key>
+	<string>smileunion-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smileunion-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:120838245077:ios:6b2ee6b646b69c528f305c</string>
+</dict>
+</plist>

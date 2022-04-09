@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "992081392752",
+    "project_id": "clinicapp-64270",
+    "storage_bucket": "clinicapp-64270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992081392752:android:d80a834c2d5db0fee370b5",
+        "android_client_info": {
+          "package_name": "com.clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992081392752-9gufgt5j2v3uani3qbfv5tpvvl6lrd5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clinic",
+            "certificate_hash": "211c1cf02deb166a45276521b3f44d18158bf381"
+          }
+        },
+        {
+          "client_id": "992081392752-k181990gatf3i6ditaau872qd26c1pvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clinic",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfT6yRTLUq2z2l-ugW5mxaAA-SaYgCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992081392752-kkgqhitdc2r4ssrck72lrru5thb83hf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.ClinicApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992081392752:android:b8950e7cce61664be370b5",
+        "android_client_info": {
+          "package_name": "com.clinicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfT6yRTLUq2z2l-ugW5mxaAA-SaYgCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992081392752-kkgqhitdc2r4ssrck72lrru5thb83hf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.ClinicApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992081392752:android:55f141aeefb3b954e370b5",
+        "android_client_info": {
+          "package_name": "com.clinicappjao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992081392752-s91nqq18jp0kqnh5i58hlo5rdm90pnkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clinicappjao",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfT6yRTLUq2z2l-ugW5mxaAA-SaYgCtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992081392752-rptba0hpvt6p14ot3q0ilitcmuluv0j9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992081392752-kkgqhitdc2r4ssrck72lrru5thb83hf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.ClinicApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

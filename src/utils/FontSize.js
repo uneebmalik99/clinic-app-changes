@@ -1,0 +1,23 @@
+export default FontSize = {
+    fontTitle: 30,
+    fontLarge: 30,
+    fontMedium: 20,
+    fontSmall: 15,
+    marginTop: 30,
+    paddingParent: 30,
+    btnTextSize: 25,
+    etHintSize: 20,
+    etTextSize: 20,
+    fontSize13: 13,
+    fontSize34: 34,
+    fontSize30: 30,
+    fontSize22: 22,
+    fontSize20: 20,
+    fontSize19: 19,
+    fontSize16: 16,
+    fontSize17: 17,
+    fontSize14: 14,
+    fontSize15: 15,
+    
+    fontSize26: 26,
+}
